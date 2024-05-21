@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Vu Phuc Vien</h1>
 
 🏫 I'm currently a final year student in Computer Science at the [Faculty of Information Technology, Ton Duc Thang University (Vietnam)](https://it.tdtu.edu.vn/)
-<br>🔭 I have a deep interest in Infrastructure and AI
+<br>🔭 I have a deep interest in Artificial Intelligence and Data Analysis.
 <br>🙋🏻‍♂️ I'm always eager to learn new technologies and apply them to solve real-world problems.<br>
 
 
